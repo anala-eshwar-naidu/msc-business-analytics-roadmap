@@ -26,7 +26,7 @@
 
 | Day | Date | Topic / Drill | Key Concept Learned | Hours | Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Day 1** | Mon | Shortcuts & Table Setup | `Ctrl + T`, `Ctrl + Shift + L`, `F4` Locks | 3.5 hrs | ✅ Complete |
+| **Day 1** | Mon | Shortcuts & Table Setup | `Ctrl + T`, `Ctrl + Shift + L`, `F4` Locks | 3.5 hrs | ⏳ Pending |
 | **Day 2** | Tue | Lookups & Merging | `XLOOKUP`, `INDEX-MATCH` | -- | ⏳ Pending |
 | **Day 3** | Wed | Aggregations | `SUMIFS`, `COUNTIFS`, `IFERROR` | -- | ⏳ Pending |
 | **Day 4** | Thu | Pivot Tables | Slicers, Calculated Fields | -- | ⏳ Pending |
